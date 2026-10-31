@@ -64,6 +64,11 @@ const securityHeaders = [
 
 const nextConfig = {
   poweredByHeader: false,
+  // The Keystatic reader finds entries at runtime, which file tracing cannot see.
+  outputFileTracingIncludes: {
+    '/produtos': ['./content/produtos/**/*'],
+    '/produtos/*': ['./content/produtos/**/*'],
+  },
   images: {
     formats: ['image/avif', 'image/webp'],
     minimumCacheTTL: 604800,
