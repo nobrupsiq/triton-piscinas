@@ -1,0 +1,21 @@
+{
+  "fonteSha256": "b17a4ebbddff736fe96b16a957b2ca71292e93fe1fee561220307a12ed7d5a67",
+  "produtos": 402,
+  "produtosPublicados": 401,
+  "variacoes": 1642,
+  "arquivosConvertidos": 506,
+  "bytesOriginais": 31681039,
+  "bytesOtimizados": 21898336,
+  "imagensAusentes": [],
+  "miniaturasSubstituidasPeloOriginal": [
+    {
+      "url": "https://tritonpiscinas.com.br/wp-content/uploads/2018/10/reserva-rede-de-proteção-para-piscina-incisor-triton-piscinas-1-300x300.jpg",
+      "original": "2018/10/reserva-rede-de-protecao-para-piscina-incisor-triton-piscinas-1.jpg"
+    },
+    {
+      "url": "https://tritonpiscinas.com.br/wp-content/uploads/2018/10/reserva-capa-térmica-para-piscina-incisor-triton-piscinas-300x300.jpg",
+      "original": "2018/10/reserva-capa-termica-para-piscina-incisor-triton-piscinas-1.jpg"
+    }
+  ],
+  "imagensCompartilhadas": "URLs compartilhadas reutilizam o primeiro destino, sem duplicar arquivos."
+}

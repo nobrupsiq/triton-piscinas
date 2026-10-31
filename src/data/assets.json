@@ -1,0 +1,222 @@
+{
+  "hero": "midia/editorial/hero-piscina-por-do-sol.webp",
+  "swimmer": "midia/acervo/2020-01-mergulhador-vista-area-triton-piscinas.webp",
+  "logo": "midia/acervo/2019-02-logo-triton-cor.webp",
+  "spa": "midia/acervo/2019-11-ambiente-playazo-g-slide-2.webp",
+  "projects": {
+    "solares": [
+      {
+        "src": "midia/acervo/2019-11-bar-molado-solares-triton-01.webp",
+        "nome": "bar molado solares triton 01"
+      },
+      {
+        "src": "midia/acervo/2019-11-bar-molado-solares-triton-02.webp",
+        "nome": "bar molado solares triton 02"
+      },
+      {
+        "src": "midia/acervo/2019-11-casa-de-maquinas-solares-triton-01.webp",
+        "nome": "casa de maquinas solares triton 01"
+      },
+      {
+        "src": "midia/acervo/2019-11-casa-de-maquinas-solares-triton-solares-triton-03.webp",
+        "nome": "casa de maquinas solares triton solares triton 03"
+      },
+      {
+        "src": "midia/acervo/2019-11-piscina-adulto-solares-triton-01.webp",
+        "nome": "piscina adulto solares triton 01"
+      },
+      {
+        "src": "midia/acervo/2019-11-piscina-adulto-solares-triton-02.webp",
+        "nome": "piscina adulto solares triton 02"
+      },
+      {
+        "src": "midia/acervo/2019-11-piscina-adulto-solares-triton-03.webp",
+        "nome": "piscina adulto solares triton 03"
+      },
+      {
+        "src": "midia/acervo/2019-11-piscina-adulto-solares-triton-04.webp",
+        "nome": "piscina adulto solares triton 04"
+      },
+      {
+        "src": "midia/acervo/2019-11-piscina-adulto-solares-triton-06.webp",
+        "nome": "piscina adulto solares triton 06"
+      },
+      {
+        "src": "midia/acervo/2019-11-piscina-infantil-solares-triton-01.webp",
+        "nome": "piscina infantil solares triton 01"
+      },
+      {
+        "src": "midia/acervo/2019-11-piscina-infantil-solares-triton-03.webp",
+        "nome": "piscina infantil solares triton 03"
+      },
+      {
+        "src": "midia/acervo/2019-11-piscina-infantil-solares-triton-04.webp",
+        "nome": "piscina infantil solares triton 04"
+      },
+      {
+        "src": "midia/acervo/2019-11-piscina-infantil-solares-triton-06.webp",
+        "nome": "piscina infantil solares triton 06"
+      },
+      {
+        "src": "midia/acervo/2019-11-piscina-infantil-solares-triton-07.webp",
+        "nome": "piscina infantil solares triton 07"
+      },
+      {
+        "src": "midia/acervo/2019-11-piscina-infantil-solares-triton-08.webp",
+        "nome": "piscina infantil solares triton 08"
+      },
+      {
+        "src": "midia/acervo/2019-11-piscina-infantil-solares-triton-09.webp",
+        "nome": "piscina infantil solares triton 09"
+      },
+      {
+        "src": "midia/acervo/2019-11-pisicna-raiada-solares-triton-01.webp",
+        "nome": "pisicna raiada solares triton 01"
+      },
+      {
+        "src": "midia/acervo/2019-11-pisicna-raiada-solares-triton-02.webp",
+        "nome": "pisicna raiada solares triton 02"
+      },
+      {
+        "src": "midia/acervo/2019-11-pisicna-raiada-solares-triton-03.webp",
+        "nome": "pisicna raiada solares triton 03"
+      },
+      {
+        "src": "midia/acervo/2019-11-portal-entrada-solares-triton-01.webp",
+        "nome": "portal entrada solares triton 01"
+      },
+      {
+        "src": "midia/acervo/2019-11-portal-entrada-solares-triton-02.webp",
+        "nome": "portal entrada solares triton 02"
+      },
+      {
+        "src": "midia/acervo/2019-11-portal-entrada-solares-triton-03.webp",
+        "nome": "portal entrada solares triton 03"
+      },
+      {
+        "src": "midia/acervo/2019-11-portal-entrada-solares-triton-04.webp",
+        "nome": "portal entrada solares triton 04"
+      },
+      {
+        "src": "midia/acervo/2019-11-rio-lento-solares-triton-01.webp",
+        "nome": "rio lento solares triton 01"
+      },
+      {
+        "src": "midia/acervo/2019-11-rio-lento-solares-triton-02.webp",
+        "nome": "rio lento solares triton 02"
+      },
+      {
+        "src": "midia/acervo/2019-11-rio-lento-solares-triton-03.webp",
+        "nome": "rio lento solares triton 03"
+      },
+      {
+        "src": "midia/acervo/2019-11-rio-lento-solares-triton-04.webp",
+        "nome": "rio lento solares triton 04"
+      },
+      {
+        "src": "midia/acervo/2019-11-spa-sauna-seca-e-vapor-solares-triton-01.webp",
+        "nome": "spa sauna seca e vapor solares triton 01"
+      },
+      {
+        "src": "midia/acervo/2019-11-spa-sauna-seca-e-vapor-solares-triton-02.webp",
+        "nome": "spa sauna seca e vapor solares triton 02"
+      },
+      {
+        "src": "midia/acervo/2019-11-spa-sauna-seca-e-vapor-solares-triton-03.webp",
+        "nome": "spa sauna seca e vapor solares triton 03"
+      },
+      {
+        "src": "midia/acervo/2019-11-spa-sauna-seca-e-vapor-solares-triton-05.webp",
+        "nome": "spa sauna seca e vapor solares triton 05"
+      },
+      {
+        "src": "midia/acervo/2019-11-spa-sauna-seca-e-vapor-solares-triton-07.webp",
+        "nome": "spa sauna seca e vapor solares triton 07"
+      }
+    ],
+    "vasco": [
+      {
+        "src": "midia/acervo/2019-11-cr-vasco-da-gama-01.webp",
+        "nome": "cr vasco da gama 01"
+      },
+      {
+        "src": "midia/acervo/2019-11-cr-vasco-da-gama-02.webp",
+        "nome": "cr vasco da gama 02"
+      },
+      {
+        "src": "midia/acervo/2019-11-cr-vasco-da-gama-03.webp",
+        "nome": "cr vasco da gama 03"
+      },
+      {
+        "src": "midia/acervo/2019-11-cr-vasco-da-gama-04.webp",
+        "nome": "cr vasco da gama 04"
+      },
+      {
+        "src": "midia/acervo/2019-11-cr-vasco-da-gama-05.webp",
+        "nome": "cr vasco da gama 05"
+      },
+      {
+        "src": "midia/acervo/2019-11-cr-vasco-da-gama-06.webp",
+        "nome": "cr vasco da gama 06"
+      },
+      {
+        "src": "midia/acervo/2019-11-cr-vasco-da-gama-07.webp",
+        "nome": "cr vasco da gama 07"
+      },
+      {
+        "src": "midia/acervo/2019-11-cr-vasco-da-gama-08.webp",
+        "nome": "cr vasco da gama 08"
+      },
+      {
+        "src": "midia/acervo/2019-11-cr-vasco-da-gama-09.webp",
+        "nome": "cr vasco da gama 09"
+      },
+      {
+        "src": "midia/acervo/2019-11-cr-vasco-da-gama-10.webp",
+        "nome": "cr vasco da gama 10"
+      },
+      {
+        "src": "midia/acervo/2019-11-cr-vasco-da-gama-11.webp",
+        "nome": "cr vasco da gama 11"
+      },
+      {
+        "src": "midia/acervo/2019-11-cr-vasco-da-gama-12.webp",
+        "nome": "cr vasco da gama 12"
+      },
+      {
+        "src": "midia/acervo/2019-11-cr-vasco-da-gama-13.webp",
+        "nome": "cr vasco da gama 13"
+      },
+      {
+        "src": "midia/acervo/2019-11-cr-vasco-da-gama-14.webp",
+        "nome": "cr vasco da gama 14"
+      },
+      {
+        "src": "midia/acervo/2019-11-cr-vasco-da-gama-15.webp",
+        "nome": "cr vasco da gama 15"
+      }
+    ]
+  },
+  "brands": [
+    {
+      "nome": "albacete",
+      "src": "midia/acervo/2022-09-logo-albacete-339x140.webp"
+    },
+    {
+      "nome": "incisor",
+      "src": "midia/acervo/2022-09-logo-incisor-339x140.webp"
+    },
+    {
+      "nome": "namarra",
+      "src": "midia/acervo/2022-09-logo-namarra-339x140.webp"
+    },
+    {
+      "nome": "gda",
+      "src": "midia/acervo/2022-09-logo-gda-339x140.webp"
+    },
+    {
+      "nome": "nature-rio",
+      "src": "midia/acervo/2022-09-logo-nature-rio-339x140.webp"
+    }
+  ]
+}

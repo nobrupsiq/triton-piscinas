@@ -1,0 +1,8 @@
+node_modules
+.next
+public
+src/data
+migration
+preview
+test-results
+package-lock.json
